@@ -1,0 +1,5 @@
+function subtr(a, b) {
+    return a - b;
+}
+
+module.exports = subtr;
